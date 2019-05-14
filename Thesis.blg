@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Thesis.aux
+A level-1 auxiliary file: chapters/intro.aux
+A level-1 auxiliary file: chapters/question.aux
+A level-1 auxiliary file: chapters/analysis.aux
+A level-1 auxiliary file: chapters/tgis.aux
+A level-1 auxiliary file: chapters/studies.aux
+A level-1 auxiliary file: chapters/hambledon.aux
+A level-1 auxiliary file: chapters/summedprob.aux
+A level-1 auxiliary file: chapters/conc.aux
+A level-1 auxiliary file: chapters/code.aux
+The style file: agsm.bst
+Database file #1: biblio.bib
+Warning--entry type for "doug_cowie_2018_1297321" isn't style-file defined
+--line 32 of file biblio.bib
+Warning--entry type for "doug_cowie_2018_1297319" isn't style-file defined
+--line 300 of file biblio.bib
+Warning--entry type for "doug_cowie_2019_2555393" isn't style-file defined
+--line 313 of file biblio.bib
+Warning--string name "february" is undefined
+--line 318 of file biblio.bib
+Warning--entry type for "ArcGIS:fk" isn't style-file defined
+--line 452 of file biblio.bib
+You've used 163 entries,
+            2909 wiz_defined-function locations,
+            1624 strings with 37388 characters,
+and the built_in function-call counts, 848234 in all, are:
+= -- 138555
+> -- 11725
+< -- 6
++ -- 67536
+- -- 3655
+* -- 74816
+:= -- 167544
+add.period$ -- 167
+call.type$ -- 163
+change.case$ -- 2261
+chr.to.int$ -- 159
+cite$ -- 163
+duplicate$ -- 2843
+empty$ -- 5905
+format.name$ -- 4153
+if$ -- 152587
+int.to.chr$ -- 9
+int.to.str$ -- 0
+missing$ -- 173
+newline$ -- 501
+num.names$ -- 1739
+pop$ -- 686
+preamble$ -- 1
+purify$ -- 2443
+quote$ -- 0
+skip$ -- 2341
+stack$ -- 0
+substring$ -- 198793
+swap$ -- 599
+text.length$ -- 2284
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 614
+warning$ -- 0
+while$ -- 3642
+width$ -- 0
+write$ -- 2171
+(There were 5 warnings)

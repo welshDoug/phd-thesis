@@ -1,0 +1,3 @@
+$ gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=small.pdf Thesis5.pdf
+
+/usr/local/Cellar/ghostscript/9.21_2/bin/gs

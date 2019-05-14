@@ -1,0 +1,3 @@
+Average,Relationship,Moran's i,z-score,p-value,Conclusion 
+Mean,Stratigraphic,0.115986,1.952463,0.050883,Clustered
+Median,Stratigraphic,0.120518,2.016316,0.043767,Clustered

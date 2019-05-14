@@ -1,0 +1,67 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Example OxCal output, from Hambledon Hill}}{4}{figure.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Phasing of South Cross Syke, from \citet {Mercer:2008fk}}}{5}{figure.7}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Development of Hambledon Hill from \citet {Mercer:2008fk}}}{6}{figure.8}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Traditional methods of cartographic representation: a. Time slices; b. Symbolism; c. Arrows; d. Difference maps, from \citet {Johnson:1999cr}}}{10}{figure.9}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Second-order trend surface contour map, from \citet {Bove:1981fk}}}{14}{figure.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Space-time prism, reproduced from \cite {Heagerstraand:1970ys}}}{32}{figure.26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Histogram of number of dated samples for sites included in Gathering Time}}{46}{figure.40}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Spatial distribution of un-modelled radiocarbon dates, coloured according to probability of them falling within the period 4000-3500 cal BC, from \cite {Green:2008fk}}}{51}{figure.46}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Inverse distance weighted interpolation of bayesian probabilities: 3500-3000 cal BC, from \cite {Green:2008fk}}}{52}{figure.47}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Trend surface for Early phase (100 BC to AD 50) based upon TGIS probability output normalised by sherd count. The point data layer shows the summed TGIS output, coloured from yellow to red according to the parameter of summed probability multiplied by sherd count. The trend surface is also shown in yellow to red, varying from low values to high, from \cite {Green:2008fk}}}{53}{figure.48}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces A bivariate KDE plot. Contour lines divide the complete distribution into ten equally sized divisions per figure to indicate predicted density of population. Reproduced from \citet [1024]{ARCM:ARCM578}}}{56}{figure.49}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Location of Hambledon Hill, from \citep [2]{Mercer:2008fk}}}{82}{figure.71}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Plan of main earthworks and locations on Hambledon Hill, from \citep [5]{Mercer:2008fk}}}{83}{figure.72}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Development of the Hambledon Complex by period, after \cite {Mercer:2008fk}}}{84}{figure.74}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Location of features containing Mesolithic dated samples}}{84}{figure.76}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Location of pre-Hambledon Neolithic sites in the locality}}{86}{figure.78}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Posterior density estimates for the construction of the Neolithic earthworks and for the periodisation of the complex. Figure 4.14 from \citep [151]{Whittle:2011kl}}}{87}{figure.80}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Plot of the locations of all samples included in the bayesian model for the site, and key earthworks, for reference.}}{88}{figure.81}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Plot of all features dated via the bayesian model, and key earthworks, for reference.}}{88}{figure.82}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Bayesian model for the central area and plan of the features dated, from fig 4.8 \citep [139]{Whittle:2011kl}}}{89}{figure.84}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Bayesian model for the central area and plan of the features dated, from fig 4.9 \citep [140]{Whittle:2011kl}}}{92}{figure.85}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Plot of all locations of dates identified as stratigraphically isolated in fig 4.9 \citep [140]{Whittle:2011kl}}}{93}{figure.86}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Bayesian model for the cross dykes, etc and plan of the features dated, from fig 4.10 \citep [139]{Whittle:2011kl}}}{95}{figure.89}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Bayesian model for the Stepleton enclosure and plan of the features dated, from fig 4.11 \citep [142]{Whittle:2011kl}}}{97}{figure.91}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Bayesian model for the middle and inner Stepleton outworks and plan of the features dated, from fig 4.12 \citep [143]{Whittle:2011kl}}}{99}{figure.92}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Plot of locations of dates preceding the inner Stepleton outwork}}{100}{figure.93}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Bayesian model for the Hanford outworks, Shroton spur outworks and discrete central area features; and plans of the features dated in the Hanford outwork, from fig 4.13 \citep [144]{Whittle:2011kl}}}{103}{figure.95}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Plan of features shown in the model of figure~\ref {fig:hanfordetc} for the Shroton spur outworks and discrete central area}}{104}{figure.96}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Posterior density estimates for the start of phase I in the ditch segments of the central area of Hambledon Hill}}{107}{figure.99}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Posterior density estimates for an alternative model of the Hanford outworks, where segment two pre-dates segment three.}}{110}{figure.103}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Plan of segments included in the bayesian model, by qualitative confidence interval}}{111}{figure.105}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Plan of segments included in the bayesian model, by qualitative confidence interval, with 10m buffer}}{112}{figure.107}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces Plan of statistically significant clusters of high values}}{119}{figure.120}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces Plan of statistically significant low value outliers}}{119}{figure.121}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Plan of statistically significant clusters and outliers based on a spatial conceptualisation of space}}{122}{figure.122}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Plans of most significant positive z-score values ( $>$ 2.5 Std. Dev.) for Getis-Ord Gi*}}{123}{figure.124}
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Plans of other significant positive and negative z-score values ($>$1.5 and $<$ 2.5 and $<$ -1.5 and $>$ -2.5 Std. Dev.) for Getis-Ord Gi*}}{124}{figure.125}
+\contentsline {figure}{\numberline {6.27}{\ignorespaces Plans of least significant positive and negative z-score values (between +1.5 and -1.5 in steps of one Std. Dev.) for Getis-Ord Gi*}}{125}{figure.126}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Map of the grid cells used to abstract the EUROEVOL data set}}{157}{figure.165}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Map of first Neolithic dates from EUROEVOL data set, dates are classified using the geometric interval of the mean date values}}{158}{figure.173}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Map of first Neolithic dates from EUROEVOL data set, dates are classified using an arbitrary interval with additional intervals in the range 4700 B.C. to 3000 B.C. }}{159}{figure.174}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Map showing empty cells in the EUROEVOL data set}}{160}{figure.176}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Map of first Neolithic dates from EUROEVOL data set, dates are classified using an arbitrary interval of equal duration}}{161}{figure.178}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Map of first Neolithic dates showing before and after 3000 B.C.}}{162}{figure.179}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Map of all values from generated data set}}{166}{figure.186}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Map of empty cells from the generated data set}}{167}{figure.188}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Initial model state and corresponding EUROEVOL data}}{168}{figure.190}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Model state after phase one and corresponding EUROEVOL data}}{169}{figure.191}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Model state after phase two and corresponding EUROEVOL data}}{170}{figure.192}
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Model state after phase three and corresponding EUROEVOL data}}{171}{figure.193}
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Model state after phase four and corresponding EUROEVOL data}}{172}{figure.194}
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Model state after phase five and corresponding EUROEVOL data}}{173}{figure.195}
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Model state after phase six and corresponding EUROEVOL data}}{174}{figure.196}
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Model state after phase seven and corresponding EUROEVOL data}}{175}{figure.197}
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Model state after phase eight and corresponding EUROEVOL data}}{176}{figure.198}
+\contentsline {figure}{\numberline {7.18}{\ignorespaces Model state after phase nine and corresponding EUROEVOL data}}{177}{figure.199}
+\contentsline {figure}{\numberline {7.19}{\ignorespaces Model state after phase ten and corresponding EUROEVOL data}}{178}{figure.200}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
